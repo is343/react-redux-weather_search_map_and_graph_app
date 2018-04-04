@@ -1,5 +1,4 @@
 import axios from 'axios';
-import {API_KEY, ROOT_URL} from '../sensitive/api_keys';
 
 
 export const FETCH_WEATHER = 'FETCH_WEATHER';
